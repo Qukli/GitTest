@@ -2,4 +2,6 @@
 
 text
 
-commit from local repository 
+commit from local repository
+
+comit fromGitHab
